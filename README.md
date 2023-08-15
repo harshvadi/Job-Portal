@@ -13,7 +13,7 @@ Follow the below steps to preview my project.
   - Open terminal and enter the below command to clone my repo.
 
 ```bash
-  git clone https://github.com/harshvadi07/woc5.0-node-jobportal-harshVadi.git
+  git clone https://github.com/harshvadi/Job-Portal.git
 ```
   - Browse to the folder where you cloned the repo and open terminal.
 
